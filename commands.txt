@@ -1,0 +1,4 @@
+
+'venv\Scripts\activate' -> Activate virtual enviroment on terminal
+'deactivate' -> Deactivate virtual enviroment on terminal
+'uvicorn main:app --reload' -> Running application with uvicorn
